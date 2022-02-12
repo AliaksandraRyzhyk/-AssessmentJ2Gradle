@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Поиск товара по наименованию" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-30T13:10:10" hostname="WIN-2HOT7N0FG3K" time="7.717">
+  <properties/>
+  <testcase name="Успешный поиск товара по наименованию" classname="Поиск товара по наименованию" time="7.717"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

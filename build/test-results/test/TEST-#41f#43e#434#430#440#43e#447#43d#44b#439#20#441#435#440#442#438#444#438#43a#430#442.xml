@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Подарочный сертификат" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-30T13:10:18" hostname="WIN-2HOT7N0FG3K" time="7.458">
+  <properties/>
+  <testcase name="Проверка наличия подарочных сертификатов" classname="Подарочный сертификат" time="7.458"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
